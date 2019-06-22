@@ -7,6 +7,7 @@
  */
 static char *font = "inconsolata:pixelsize=15:antialias=true:autohint=true";
 static int borderpx = 2;
+static const int alpha = 0xdd;
 
 /*
  * What program is execed by st depends of these precedence rules:
