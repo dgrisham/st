@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Inconsolata Nerd Font:style=Regular:antialias=true:size=11";
+static char *font = "Inconsolata Nerd Font:style=Regular:size=15";
 static int borderpx = 2;
 
 /*
